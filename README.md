@@ -9,3 +9,7 @@ I have already obtained certifications from the company ViaCerta in beginner tra
 I constantly seek to improve my knowledge and skills. I have the ability to solve problems, think critically, work in a team and have good communication. In the academic environment, I seek to improve myself in different programming languages, fundamental computing concepts and software development through projects and challenges.
 
 In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
+
+### 💻 Tech Stack
+______________________________________________________________________________________________________________________________________
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
