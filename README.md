@@ -8,7 +8,7 @@ I constantly seek to improve my knowledge and skills. I have the ability to solv
 
 In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![oluuiss GitHub stats](https://github-readme-stats.vercel.app/api?username=oluuiss)](https://github.com/oluuiss/github-readme-stats)
 
 <h1>💻 Tech Stack</h1>
 
