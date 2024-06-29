@@ -3,8 +3,8 @@ I'm Luis Gustavo, a passionate software developer and tech enthusiast. I am open
 
 <h1>📌 Experience</h1>
 
-I have already obtained certifications from the ViaCerta school as a web programmer with an emphasis on PHP and Java lasting 121 hours.
-Certification from the company Udemy by teacher Nélio Alves with the COMPLETE Java course lasting 54 hours.
+
+I have experience and can do well as a programmer with an emphasis on Java, JDBC, JPA/Hibernate, C, MySQL, NoSQL, MariaDB, Python, PySide6, MongoDB, PHP and APIs.
 
 I constantly seek to improve my knowledge and skills. I have the ability to solve problems, think critically, work in a team and have good communication. In the academic environment, I seek to improve myself in different programming languages, fundamental computing concepts and software development through projects and challenges.
 
