@@ -2,7 +2,9 @@
 I'm Luis Gustavo, a passionate software developer and tech enthusiast. I am open to new opportunities in the technology sector! Furthermore, I'am studying Computer Engineering at Unifev College, in Votuporanga - SP, Brazil.
 
 <h1>📌 Experience</h1>
-I have already obtained certifications from the company ViaCerta in beginner training as a programmer in Java, Javascript, Object Oriented Programming, SQL Database and Web Development. 
+
+I have already obtained certifications from the ViaCerta school as a web programmer with an emphasis on PHP and Java lasting 121 hours.
+Certification from the company Udemy by teacher Nélio Alves with the COMPLETE Java course lasting 54 hours.
 
 I constantly seek to improve my knowledge and skills. I have the ability to solve problems, think critically, work in a team and have good communication. In the academic environment, I seek to improve myself in different programming languages, fundamental computing concepts and software development through projects and challenges.
 
