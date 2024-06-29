@@ -10,6 +10,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 
 ![oluuiss GitHub stats](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 <h1>💻 Tech Stack</h1>
