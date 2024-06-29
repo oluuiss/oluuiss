@@ -8,8 +8,7 @@ I constantly seek to improve my knowledge and skills. I have the ability to solv
 
 In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
 
-[![oluuiss GitHub stats](https://github-readme-stats.vercel.app/api?username=oluuiss)]([https://github.com/oluuiss/github-readme-stats](https://github.com/oluuiss/oluuiss/blob/main/README.md))
-![oluuiss GitHub stats](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=radical)
+![oluuiss GitHub stats](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=transparent)
 
 <h1>💻 Tech Stack</h1>
 
