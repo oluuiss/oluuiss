@@ -12,7 +12,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 [![oluuiss GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-dark-mode-only)
 [![oluuiss GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-light-mode-only) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1>💻 Tech Stack</h1>
