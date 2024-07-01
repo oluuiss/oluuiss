@@ -9,12 +9,6 @@ I constantly seek to improve my knowledge and skills. I have the ability to solv
 
 In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
 
-<h1></h1>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
 <h1>Languages </h1>
 
 <div align="left">
@@ -43,6 +37,11 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+
+  <h1></h1>
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
   <h1></h1>
   <div align="center">
