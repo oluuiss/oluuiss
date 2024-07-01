@@ -3,7 +3,7 @@ I'm Luis Gustavo, a passionate software developer and tech enthusiast. I am open
 
 <h1>🛠️ Experience</h1>
 
-I have experience and can do well as a programmer with an emphasis on Java, SpringBoot, JDBC, JPA/Hibernate, C, MySQL, NoSQL, Node.js, .Net, MariaDB, Python, PySide6, MongoDB, PHP, Swift, Web and APIs.
+I have experience and can do well as a programmer with an emphasis on Java, SpringBoot, JDBC, JPA/Hibernate, C, MySQL, NoSQL, Node.js, .Net, MariaDB, Python, PySide6, Django, MongoDB, PHP, Swift, Web and APIs.
 
 I constantly seek to improve my knowledge and skills. I have the ability to solve problems, think critically, work in a team and have good communication. In the academic environment, I seek to improve myself in different programming languages, fundamental computing concepts and software development through projects and challenges.
 
