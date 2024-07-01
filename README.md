@@ -14,7 +14,9 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 [![oluuiss GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-dark-mode-only)
 [![oluuiss GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-light-mode-only) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+<h1></h1>
+<img align="center" src="https://camo.githubusercontent.com/74713aeaba69b9d6f82822de95d26a4d086ffe7bc753edbb1548b02639a1e0b3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72616661656c6d646361726e6569726f267468656d653d64726163756c6126686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluuiss&amp;theme=dracula&amp;hide_langs_below=1" style="max-width: 100%;">
 
 
 
