@@ -55,7 +55,6 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
 
 ###
 
