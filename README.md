@@ -14,6 +14,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 [![oluuiss GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-dark-mode-only)
 [![oluuiss GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-light-mode-only) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 
@@ -21,7 +22,6 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 <a href="https://swift.org" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="max-width: 100%;"> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 
