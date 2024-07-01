@@ -1,7 +1,7 @@
 <h1>🌴 About me</h1>
 I'm Luis Gustavo, a passionate software developer and tech enthusiast. I am open to new opportunities in the technology sector! Furthermore, I'am studying Computer Engineering at Unifev College, in Votuporanga - SP, Brazil.
 
-<h1>👨‍🎓 Experience</h1>
+<h1>🛠️ Experience</h1>
 
 I have experience and can do well as a programmer with an emphasis on Java, JDBC, JPA/Hibernate, C, MySQL, NoSQL, MariaDB, Python, PySide6, MongoDB, PHP and APIs.
 
