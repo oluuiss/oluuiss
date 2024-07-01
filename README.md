@@ -14,7 +14,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 [![oluuiss GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-dark-mode-only)
 [![oluuiss GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=oluuiss&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/oluuiss/github-readme-stats#gh-light-mode-only)
-<img align="right" height="180em" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluuiss&amp;layout=compact&amp;langs_count=16&amp;theme=dark" style="max-width: 100%;"></a>
+
 
 
 <div dir="auto">
