@@ -57,7 +57,9 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 <h1></h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&right_color=blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 </div>
+
+
 
 
