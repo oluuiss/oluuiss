@@ -67,10 +67,8 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 
-<div alt="social">
+<div align="center" alt="social">
   <h1>🌎 Socials</h1>
 
  ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
@@ -83,6 +81,9 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
   <h1></h1>
 <img src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 
 </div>
 
