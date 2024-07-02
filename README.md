@@ -9,11 +9,13 @@ I constantly seek to improve my knowledge and skills. I have the ability to solv
 
 In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
 
-<h1>📖 Languages</h1>
+<h1>📖 Skills</h1>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  </li>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
