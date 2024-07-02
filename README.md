@@ -53,6 +53,10 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
+
+  <h1></h1>
+<img src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 
