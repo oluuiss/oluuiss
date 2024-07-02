@@ -16,7 +16,6 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
   <li>
     <p><b>Languages</b></p>
   </li>
- </ul>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
@@ -32,6 +31,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+ </ul>
 </div>
 
 <h1>🌎 Socials</h1>
