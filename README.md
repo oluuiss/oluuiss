@@ -70,7 +70,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 <div align="center" alt="social">
   <h1>🌎 Socials</h1>
- <a href="https://instagram.com/oluuiss">
+ <a href="https://instagram.com/oluuiss" title="Instagram">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"/>
  </a>
  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSKkkJnbHxQbpRGDKQkjrnpSZjLxVJvSlsZwVNcbFZHWJWFKhkbzMWPfhhtzZwHdhFRXZCQg">
