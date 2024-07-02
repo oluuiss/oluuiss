@@ -12,7 +12,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 <h1>📖 Skills</h1>
 
 <div align="left">
-  <li>
+  <li display: inline-block>
     <p>Languages</p>
   </li>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
