@@ -53,7 +53,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
       </div>
       <div class="tools">
        <li>
-        Tools
+        <p><b>Tools</b></p>
        </li>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
          <img width="12" />
