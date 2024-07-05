@@ -74,7 +74,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 ###
