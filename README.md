@@ -74,7 +74,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="oluuiss" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/oluuiss?trk=profile-badge">Luis Porto</a></div>
+
               
 
 ###
