@@ -13,7 +13,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 <div align="left">
  <ul> 
-    <div>
+    <div class="languages">
       <li>
         <p><b>Languages</b></p>
       </li>
@@ -30,7 +30,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
       <img width="12" />
     </div>
-    <div>
+    <div class="frameworks">
       <li>
        <p><b>Frameworks</b></p>
       </li>
@@ -66,7 +66,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 
   <h1>📊 Stats</h1>
-  <div align="center">
+  <div class="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oluuiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -80,7 +80,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 ###
 
 
-  <div align="center" alt="social">
+  <div class="socials" align="center" alt="social">
      <h1>🌎 Socials</h1>
     <a href="https://instagram.com/oluuiss" title="Instagram">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"/>
@@ -99,9 +99,9 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 </div>
 
   <h1></h1>
-<img src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
+<img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
+<div id="visitors" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 
 </div>
