@@ -100,6 +100,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
   <h1></h1>
 <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <div id="visitors" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
