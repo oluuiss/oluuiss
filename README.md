@@ -1,5 +1,5 @@
 <h1>🌴 About me</h1>
-I'm Luis Gustavo, a passionate software developer and tech enthusiast. I am open to new opportunities in the technology sector! Furthermore, I'am studying Computer Engineering at Unifev College, in Votuporanga - SP, Brazil.
+I'm Luis, a passionate software developer and tech enthusiast. I am open to new opportunities in the technology sector! Furthermore, I'am studying Computer Engineering at Unifev College, in Votuporanga - SP, Brazil.
 
 <h1>🛠️ Experience</h1>
 
