@@ -89,9 +89,6 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
     <a href="www.linkedin.com/in/oluuiss" title="Linkedin">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
     </a>
-    <a href="https://discord.gg/PqS66etUN4" title="Discord">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-    </a>
   </div>
  
 </div>
