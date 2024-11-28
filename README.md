@@ -1,7 +1,7 @@
-<h1>🌴 About me</h1>
+# 🌴 About me
 I'm Luis, a passionate software developer and tech enthusiast. I am open to new opportunities in the technology sector! Furthermore, I'am studying Computer Engineering at Unifev College, in Votuporanga - SP, Brazil.
 
-<h1>🛠️ Experience</h1>
+# 🛠️ Experience
 
 I have experience and can do well as a programmer with an emphasis on Java, SpringBoot, JDBC, JPA/Hibernate, C, MySQL, NoSQL, Node.js, .Net, MariaDB, Python, PySide6, Django, MongoDB, PHP, Swift, Web and APIs.
 
@@ -9,7 +9,7 @@ I constantly seek to improve my knowledge and skills. I have the ability to solv
 
 In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
 
-<h1>📖 Skills</h1>
+# 📖 Skills
 
 <div align="left">
  <ul> 
@@ -63,9 +63,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
      </div>
  </ul>
 </div>
-
-
-  <h1>📊 Stats</h1>
+# 📊 Stats
   <div class="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oluuiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
@@ -73,15 +71,10 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-              
-
-###
-
-
-  <div class="socials" align="center" alt="social">
-     <h1>🌎 Socials</h1>
+</div>         
+#
+ <div class="socials" align="center" alt="social">
+     # 🌎 Socials
     <a href="https://instagram.com/oluuiss" title="Instagram">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"/>
     </a>
@@ -95,7 +88,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
  
 </div>
 
-  <h1></h1>
+  #
 <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
 
 <div id="visitors" align="center">
