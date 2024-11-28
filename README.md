@@ -81,7 +81,8 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
   
   # 🌎 Socials
 
-  ![discord-logo](./images/discord-logo.png)
+<a href="https://instagram.com/oluuiss" title="Instagram"><img src="./images/discord-logo.png" alt="discord-logo" width="47px" height="35px"></a>
+
     <a href="https://instagram.com/oluuiss" title="Instagram">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"/>
     </a>
