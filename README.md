@@ -11,12 +11,8 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 
 # 📖 Skills
 
-<div align="left">
- <ul> 
-    <div class="languages">
-      <li>
-        <p><b>Languages</b></p>
-      </li>
+- #### Languages
+<div align="left" class="languages">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -30,10 +26,9 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
       <img width="12" />
     </div>
-    <div class="frameworks">
-      <li>
-       <p><b>Frameworks</b></p>
-      </li>
+
+- #### Frameworks
+<div align="left" class="frameworks">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -41,28 +36,23 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
       <img width="12" />
      </div>
-     <div class="database">
-        <li>
-         <p><b>Database</b></p>
-        </li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-        <img width="12" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-        <img width="12" />
-      </div>
-      <div class="tools">
-       <li>
-        <p><b>Tools</b></p>
-       </li>
+     
+- #### Database
+<div align="left" class="database">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
+     </div>
+  
+- #### Tools
+
+  <div class="tools">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
          <img width="12" />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
          <img width="12" />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
      </div>
- </ul>
-</div>
+
 
 # 📊 Stats
 
@@ -86,7 +76,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 <a href="https://instagram.com/oluuiss" title="instagram"><img src="./images/instagram-logo.png" alt="instagram-logo" width="40px" height="40px"></a>
 </div>
  
-</div>
+
 
   #
 <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
@@ -94,7 +84,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
 <div id="visitors" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 
-</div>
+
 
 
 
