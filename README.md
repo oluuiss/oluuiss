@@ -81,7 +81,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
   
   # 🌎 Socials
 
-<a href="https://discord.gg/PqS66etUN4" title="discord"><img src="./images/discord-logo.png" alt="discord-logo" width="40px" height="40px"></a>
+<a href="https://discord.gg/PqS66etUN4" target="_blank" title="discord"><img src="./images/discord-logo.png" alt="discord-logo" width="40px" height="40px"></a>
 <a href="www.linkedin.com/in/oluuiss" title="linkedin"><img src="./images/linkedin-logo.png" alt="linkedin-logo" width="50px" height="50px"></a>
 <a href="https://instagram.com/oluuiss" title="instagram"><img src="./images/instagram-logo.png" alt="instagram-logo" width="40px" height="40px"></a>
   </div>
