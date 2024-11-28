@@ -81,7 +81,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
   
   # 🌎 Socials
 
-<a href="https://instagram.com/oluuiss" title="Instagram"><img src="./images/discord-logo.png" alt="discord-logo" width="47px" height="35px"></a>
+<a href="https://discord.gg/PqS66etUN4" title="discord"><img src="./images/discord-logo.png" alt="discord-logo" width="40px" height="40px"></a>
 
     <a href="https://instagram.com/oluuiss" title="Instagram">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"/>
@@ -89,7 +89,7 @@ In addition to graduation, I constantly seek to expand my knowledge through cour
     <a href="www.linkedin.com/in/oluuiss" title="Linkedin">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
     </a>
-    <a href="https://discord.gg" title="Discord">
+    <a href="https://discord.gg/PqS66etUN4" title="Discord">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
     </a>
   </div>
