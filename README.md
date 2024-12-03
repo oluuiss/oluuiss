@@ -5,7 +5,7 @@
 <div class="txt" align="justify">
 Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of impactful technological solutions.
 <br>
-<div id="visitors">
+<div id="visitors" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 </div>
      
