@@ -1,5 +1,11 @@
+<p align="center">Hello, wordl!</p>
+
+<p align="center"><img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <a href="https://github.com/oluuiss/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=oluuiss" />
+  </a>
 </div>
 
 
