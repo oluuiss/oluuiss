@@ -42,8 +42,8 @@ I am looking for new opportunities in the job market in the fields of Software D
      
 ### Database
 <div class="database">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
+        <img src="./images/database/mysql.png" alt="mysql" title="MySQL" width="60px" height="60px">
+        <img src="./images/database/postgreesql.png" alt="postgresql" title="PostgreSQL" width="60px" height="60px">
      </div>
   
 ### Tools
