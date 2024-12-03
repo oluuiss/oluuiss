@@ -67,9 +67,9 @@ I am looking for new opportunities in the job market in the fields of Software D
   <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>   
 <br>
-<a href="https://instagram.com/oluuiss" title="Instagram"><img src="./images/instagram-logo.png" alt="instagram-logo" width="45px" height="45px"></a>
-<a href="https://discord.gg/PqS66etUN4" title="Discord"><img src="./images/discord-logo.png" alt="discord-logo" width="45px" height="45px"></a>
-<a href="[www.linkedin.com/in/oluuiss]" title="Linkedin"><img src="./images/linkedin-logo.png" alt="linkedin-logo" width="45px" height="45px"></a>
+<a href="https://instagram.com/oluuiss" title="Instagram"><img src="./images/social/instagram.png" alt="instagram-logo" width="45px" height="45px"></a>
+<a href="https://discord.gg/PqS66etUN4" title="Discord"><img src="./images/social/discord.png" alt="discord-logo" width="45px" height="45px"></a>
+<a href="[www.linkedin.com/in/oluuiss]" title="Linkedin"><img src="./images/social/linkedin.png" alt="linkedin-logo" width="45px" height="45px"></a>
 
 </div>
  
