@@ -1,30 +1,23 @@
-# 🌴 About me
-I'm Luis, a passionate software developer and tech enthusiast. I am open to new opportunities in the technology sector! Furthermore, I'am studying Computer Engineering at Unifev College, in Votuporanga - SP, Brazil.
+# 📌 About me
+<div class="txt" align="justify">
+Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of impactful technological solutions.
+</div>
 
-# 🛠️ Experience
+# 📍 Experience
+<div class="txt" align="justify">
+I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python & Frameworks`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `PHP`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
 
-I have experience and can do well as a programmer with an emphasis on Java, SpringBoot, JDBC, JPA/Hibernate, C, MySQL, NoSQL, Node.js, .Net, MariaDB, Python, PySide6, Django, MongoDB, PHP, Swift, Web and APIs.
+In the academic environment, I focus on improving my expertise in various programming languages, fundamental computing concepts, and software development through projects and challenges. Additionally, I strive to expand my knowledge continuously through courses and individual projects.
 
-I constantly seek to improve my knowledge and skills. I have the ability to solve problems, think critically, work in a team and have good communication. In the academic environment, I seek to improve myself in different programming languages, fundamental computing concepts and software development through projects and challenges.
+I am looking for new opportunities in the job market in the fields of Software Development, Mobile, and Back-end, with the goal of contributing to the advancement of innovative and impactful technological solutions.
+</div>
 
-In addition to graduation, I constantly seek to expand my knowledge through courses and individual projects. I am looking for opportunities in the job market in the area of ​​Program Development, Mobile and Back-end.
 
-# 📖 Skills
+# 💻 Skills
 
-- #### Languages
+#### Languages
 <div align="left" class="languages">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-      <img width="12" />
+     <img src="">
     </div>
 
 - #### Frameworks
