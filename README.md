@@ -1,13 +1,17 @@
 <div align="center">
      
-# 📌 About me
+# About me
 </div>
 <div class="txt" align="justify">
 Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of impactful technological solutions.
+<div id="visitors" align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
+</div>
+     
 </div>
 <div align="center">
 
-# 📍 Experience
+# Experience
 </div>
 <div class="txt" align="justify">
 I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python & Frameworks`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `PHP`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
@@ -18,7 +22,7 @@ I am looking for new opportunities in the job market in the fields of Software D
 </div>
 <div align="center">
 
-# 💻 Skills
+# Skills
 
 ### Languages
 <div class="languages">
@@ -33,32 +37,26 @@ I am looking for new opportunities in the job market in the fields of Software D
      <img src="./images/languages/php.png" alt="php" title="PHP" width="60px" height="60px">
     </div>
 
-### Frameworks
-<div class="frameworks">
+### Frameworks & Database
+<div>
      <img src="./images/frameworks/swiftui.png" alt="swiftui" title="Swift UI" width="60px" height="60px">
      <img src="./images/frameworks/django.png" alt="django" title="Django" width="45px" height="45px">
      <img src="./images/frameworks/spring-boot.png" alt="spring-boot" title="Spring Boot" width="60px" height="60px">
-     </div>
-     
-### Database
-<div class="database">
-        <img src="./images/database/mysql.png" alt="mysql" title="MySQL" width="60px" height="60px">
-        <img src="./images/database/postgreesql.png" alt="postgresql" title="PostgreSQL" width="60px" height="60px">
+     <img src="./images/database/mysql.png" alt="mysql" title="MySQL" width="60px" height="60px">
+     <img src="./images/database/postgreesql.png" alt="postgresql" title="PostgreSQL" width="60px" height="60px">
      </div>
   
 ### Tools
 
   <div class="tools">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-         <img width="12" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-         <img width="12" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-     </div>
+     <img src="./images/tools/vscode.png" alt="vccode" title="Visual Studio Code" width="60px" height="60px">
+     <img src="./images/tools/intellij.png" alt="intellij" title="IntelliJ" width="60px" height="60px">
+     <img src="./images/tools/xcode.png" alt="xcode" title="X Code" width="60px" height="60px">
+     <img src="./images/tools/androidstudio.png" alt="androidstudio" title="Android Studio" width="60px" height="60px">
 </div>
 <div class="stats" align="center">
      
-# 📊 Stats
+# Stats
   
   <img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oluuiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
@@ -67,28 +65,14 @@ I am looking for new opportunities in the job market in the fields of Software D
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>   
+<br>
+<a href="https://instagram.com/oluuiss" title="Instagram"><img src="./images/instagram-logo.png" alt="instagram-logo" width="45px" height="45px"></a>
+<a href="https://discord.gg/PqS66etUN4" title="Discord"><img src="./images/discord-logo.png" alt="discord-logo" width="45px" height="45px"></a>
+<a href="[www.linkedin.com/in/oluuiss]" title="Linkedin"><img src="./images/linkedin-logo.png" alt="linkedin-logo" width="45px" height="45px"></a>
 
-###
-
- <div class="socials" align="center" alt="social">
-  
-  # 🌎 Socials
-
-<a href="https://discord.gg/PqS66etUN4" title="discord"><img src="./images/discord-logo.png" alt="discord-logo" width="40px" height="40px"></a>
-<a href="[www.linkedin.com/in/oluuiss]" title="linkedin"><img src="./images/linkedin-logo.png" alt="linkedin-logo" width="40px" height="40px"></a>
-<a href="https://instagram.com/oluuiss" title="instagram"><img src="./images/instagram-logo.png" alt="instagram-logo" width="40px" height="40px"></a>
 </div>
  
 
 
   #
 <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
-
-<div id="visitors" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
-
-
-
-
-
-
