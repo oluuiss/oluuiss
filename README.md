@@ -1,4 +1,10 @@
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+
+
+<div align="center">
      
 # About me
 </div>
@@ -56,24 +62,5 @@ I am looking for new opportunities in the job market in the fields of Software D
      <img src="./images/tools/androidstudio.png" alt="androidstudio" title="Android Studio" width="60px" height="60px">
 </div>
 <div class="stats" align="center">
-     
-# Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oluuiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oluuiss&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>   
-<br>
-<a href="https://instagram.com/oluuiss" title="Instagram"><img src="./images/social/instagram.png" alt="instagram-logo" width="45px" height="45px"></a>
-<a href="https://discord.gg/PqS66etUN4" title="Discord"><img src="./images/social/discord.png" alt="discord-logo" width="45px" height="45px"></a>
-<a href="[www.linkedin.com/in/oluuiss]" title="Linkedin"><img src="./images/social/linkedin.png" alt="linkedin-logo" width="45px" height="45px"></a>
-
-</div>
- 
-
-
-  #
-<img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
+<!-- #
+<!-- <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
