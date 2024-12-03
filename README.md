@@ -17,7 +17,7 @@ I am looking for new opportunities in the job market in the fields of Software D
 
 #### Languages
 <div align="left" class="languages">
-     <img src="">
+     <img src="./images/JavaScript.png" alt="javascript" width="70px" height="70px">
     </div>
 
 - #### Frameworks
