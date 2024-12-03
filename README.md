@@ -17,23 +17,20 @@ I am looking for new opportunities in the job market in the fields of Software D
 
 #### Languages
 <div align="left" class="languages">
-     <img src="./images/java.png" padding="5px" alt="java" title="Java" width="60px" height="60px">
-     <img src="./images/flutter.png" alt="flutter" title="Flutter" width="60px" height="60px">
-     <img src="./images/swift.png" alt="swift" title="Swift" width="70px" height="60px">
-     <img src="./images/JavaScript.png" alt="javascript" title="JavaScript" width="60px" height="60px">
-     <img src="./images/python.png" alt="python" title="Python" width="60px" height="60px">
-     <img src="./images/c.png" alt="c" title="C" width="60px" height="60px">
-     <img src="./images/php.png" alt="php" title="PHP" width="60px" height="60px">
+     <img src="./images/languages/java.png" padding="5px" alt="java" title="Java" width="60px" height="60px">
+     <img src="./images/languages/flutter.png" alt="flutter" title="Flutter" width="60px" height="60px">
+     <img src="./images/languages/swift.png" alt="swift" title="Swift" width="70px" height="60px">
+     <img src="./images/languages/JavaScript.png" alt="javascript" title="JavaScript" width="60px" height="60px">
+     <img src="./images/languages/python.png" alt="python" title="Python" width="60px" height="60px">
+     <img src="./images/languages/c.png" alt="c" title="C" width="60px" height="60px">
+     <img src="./images/languages/php.png" alt="php" title="PHP" width="60px" height="60px">
     </div>
 
 #### Frameworks
 <div align="left" class="frameworks">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-      <img width="12" />
+      <img src="./images/frameworks/spring-boot.png" alt="spring-boot" title="Spring Boot" width="60px" height="60px">
+     <img src="./images/frameworks/swiftui.png" alt="swiftui" title="Swift UI" width="60px" height="60px">
+     <img src="./images/frameworks/django.png" alt="spring-boot" title="Django" width="45px" height="45px">
      </div>
      
 - #### Database
