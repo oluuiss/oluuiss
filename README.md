@@ -1,9 +1,14 @@
+<div align="center">
+     
 # 📌 About me
+</div>
 <div class="txt" align="justify">
 Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of impactful technological solutions.
 </div>
+<div align="center">
 
 # 📍 Experience
+</div>
 <div class="txt" align="justify">
 I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python & Frameworks`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `PHP`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
 
@@ -11,12 +16,12 @@ In the academic environment, I focus on improving my expertise in various progra
 
 I am looking for new opportunities in the job market in the fields of Software Development, Mobile, and Back-end, with the goal of contributing to the advancement of innovative and impactful technological solutions.
 </div>
-
+<div align="center">
 
 # 💻 Skills
 
-#### Languages
-<div align="left" class="languages">
+### Languages
+<div class="languages">
      <img src="./images/languages/java.png" padding="5px" alt="java" title="Java" width="60px" height="60px">
      <img src="./images/languages/flutter.png" alt="flutter" title="Flutter" width="60px" height="60px">
      <img src="./images/languages/swift.png" alt="swift" title="Swift" width="70px" height="60px">
@@ -26,20 +31,20 @@ I am looking for new opportunities in the job market in the fields of Software D
      <img src="./images/languages/php.png" alt="php" title="PHP" width="60px" height="60px">
     </div>
 
-#### Frameworks
-<div align="left" class="frameworks">
+### Frameworks
+<div class="frameworks">
       <img src="./images/frameworks/spring-boot.png" alt="spring-boot" title="Spring Boot" width="60px" height="60px">
      <img src="./images/frameworks/swiftui.png" alt="swiftui" title="Swift UI" width="60px" height="60px">
      <img src="./images/frameworks/django.png" alt="spring-boot" title="Django" width="45px" height="45px">
      </div>
      
-- #### Database
-<div align="left" class="database">
+### Database
+<div class="database">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
      </div>
   
-- #### Tools
+### Tools
 
   <div class="tools">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -48,11 +53,11 @@ I am looking for new opportunities in the job market in the fields of Software D
          <img width="12" />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
      </div>
-
-
+</div>
+<div class="stats" align="center">
+     
 # 📊 Stats
-
-  <div class="stats" align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=oluuiss&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oluuiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 </div>
