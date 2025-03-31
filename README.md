@@ -22,7 +22,7 @@ Software and mobile developer with experience in various areas of systems develo
 # Experience
 </div>
 <div class="txt" align="justify">
-I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python & Frameworks`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `PHP`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
+I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
 
 In the academic environment, I focus on improving my expertise in various programming languages, fundamental computing concepts, and software development through projects and challenges. Additionally, I strive to expand my knowledge continuously through courses and individual projects.
 
