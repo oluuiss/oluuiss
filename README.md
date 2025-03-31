@@ -28,6 +28,11 @@ In the academic environment, I focus on improving my expertise in various progra
 
 I am looking for new opportunities in the job market in the fields of Software Development, Mobile, and Back-end, with the goal of contributing to the advancement of innovative and impactful technological solutions. <br><br>
 
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluuiss&layout=compact)
+</div>
+
 <div id="visitors" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 </div>
