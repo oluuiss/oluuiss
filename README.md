@@ -2,6 +2,9 @@
 
 <p align="center"><img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
 
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode" style="max-width: 100%;"></a>
+
 <div align="center">
   <a href="https://github.com/oluuiss/github-contribution-stats/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=oluuiss" />
@@ -11,6 +14,7 @@
 
 
 <div align="center">
+
      
 # About me
 </div>
@@ -18,6 +22,7 @@
 Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of impactful technological solutions. 
 </div>
 <div align="center">
+
 
 # Experience
 </div>
@@ -33,9 +38,16 @@ I am looking for new opportunities in the job market in the fields of Software D
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluuiss&layout=compact)
 </div>
 
+<div align="center" dir="auto"> 
+  <a href="https://www.linkedin.com/in/oluuiss/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+    <a href="mailto:luispyim@gmail.com"><img src="https://camo.githubusercontent.com/8a15df73eefc8d613bab8230d8859b6328119607d14846dd1f1e0e9b526126b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+  <a href="https://instagram.com/oluuiss" rel="nofollow"><img src="https://camo.githubusercontent.com/cc8a4ea180871317216b7557a7a9b8f1b565ce74863323097aa367961c70de96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
+
 <div id="visitors" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 </div>
+
 <!-- </div>
 <!-- <div align="center">
 <!--
