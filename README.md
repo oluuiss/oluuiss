@@ -21,9 +21,8 @@
 <div class="txt" align="justify">
 <!-- Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree  in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of  impactful technological solutions. 
 -->
-Desenvolvedor de software e mobile, com experiência em diversas áreas do desenvolvimento de sistemas. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos.
-Atualmente, estou cursando Engenharia de Computação no Centro Universitário de Votuporanga (Unifev), em Votuporanga – SP, Brasil. Com uma sólida formação acadêmica e uma postura proativa, estou aberto a novas oportunidades no setor de tecnologia, visando contribuir para o desenvolvimento e aprimoramento de soluções tecnológicas inovadoras.
-</div>
+Desenvolvedor de software e mobile, com experiência em diversas áreas em Desenvolvimento de Sistemas. Tenho grande interesse por inovação e busco constantemente novos desafios que permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos.
+Atualmente, estou cursando o terceiro período de Engenharia de Computação no Centro Universitário de Votuporanga (Unifev), em Votuporanga – SP, Brasil.
 <div align="center">
 
 
@@ -40,7 +39,7 @@ I am looking for new opportunities in the job market in the fields of Software D
   
 Possuo experiência e habilidades como programador com ênfase em `Java & Frameworks`, `Swift`, `Flutter Basic`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Desenvolvimento Web` e `APIs`. Busco constantemente aprimorar meus conhecimentos e habilidades, destacando minha capacidade de resolver problemas, pensar de forma crítica, trabalhar em equipe e ter boa comunicação.
 
-No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro constantimente expandir meus conhecimentos por meio de cursos e projetos individuais.
+No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, manter código limpo (clean code), conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro expandir meus conhecimentos por meio de cursos e projetos individuais.
 <br><br>
 
 <div align="center">
