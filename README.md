@@ -22,7 +22,7 @@
 <!-- Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree  in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of  impactful technological solutions. 
 -->
 Desenvolvedor de software e mobile, com experiência em diversas áreas em Desenvolvimento de Sistemas. Tenho grande interesse por inovação e busco constantemente novos desafios que permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos.
-Atualmente, estou cursando o terceiro período de Engenharia de Computação no Centro Universitário de Votuporanga (Unifev), em Votuporanga – SP, Brasil.
+Atualmente, estou cursando o terceiro período de Engenharia da Computação no Centro Universitário de Votuporanga (Unifev), em Votuporanga – SP, Brasil.
 <div align="center">
 
 
