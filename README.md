@@ -17,7 +17,7 @@
 
      
 # Sobre mim
-</div>
+
 <div class="txt" align="justify">
 <!-- Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree  in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of  impactful technological solutions. 
 -->
@@ -27,8 +27,6 @@ Atualmente, estou cursando o terceiro período de Engenharia da Computação no 
 <div align="center">
 
 # Experiência
-</div>
-
 <!--
 I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
 <!--
@@ -42,7 +40,7 @@ I am looking for new opportunities in the job market in the fields of Software D
 <p align="center">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" title="SpringBoot" style="height: 20px;></p>
 <p align="center">          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" title="Swift" style="height: 20px;></p>
 <p align="center">           <img src="https://media.discordapp.net/attachments/1015195380071268352/1364194166657122404/A9cSJEk3QHR0AAAAAElFTkSuQmCC.png?ex=6808c852&is=680776d2&hm=4d63c244c681dc0b34cec6ea8e4a37aae93bd8b46670b8f14edd2b617b393697&=&format=webp&quality=lossless" title="SwiftUI" style="height: 20px;></p>
-<p align="center">           <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" title="MySQL" style="height: 20px;></p>
+<p align="center">           <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" title="MySQL" style="height: 20px;></p><br>
 
 <br><p align="justify">Possuo experiência e habilidades como programador em `Java & Frameworks`, `Swift`, `Flutter Basic`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Desenvolvimento Web` e `APIs`. Busco constantemente aprimorar meus conhecimentos e habilidades, destacando minha capacidade de resolver problemas, pensar de forma crítica, trabalhar em equipe e ter boa comunicação.</p>
 No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, manter código limpo (clean code), conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro expandir meus conhecimentos por meio de cursos e projetos individuais.
