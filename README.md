@@ -27,6 +27,7 @@ Atualmente, estou cursando o terceiro período de Engenharia da Computação no 
 <div align="center">
 
 # Experiência
+</div>
 <!--
 I have experience and skills as a programmer, with an emphasis on `Java & Frameworks`, `Swift`, `Flutter`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Web development`, and `APIs`. I am constantly seeking to improve my knowledge and skills, highlighting my ability to solve problems, think critically, work in a team, and communicate effectively.
 <!--
@@ -34,16 +35,19 @@ In the academic environment, I focus on improving my expertise in various progra
 <!--
 I am looking for new opportunities in the job market in the fields of Software Development, Mobile, and Back-end, with the goal of contributing to the advancement of innovative and impactful technological solutions. <br><br>
 -->
-<p class="img"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" title="VsCode" style="height: 20px;></p>
-<p class="img">         <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" title="XCode" style="height: 20px;></p>
-<p class="img">          <img src="https://media.discordapp.net/attachments/1015195380071268352/1364193653907525642/8f473185-85b5-4af7-a7a4-d89ad18dcd06.png?ex=6808c7d8&is=68077658&hm=9e0e066352eddf2338e2b083a37073a00df8077580faf0fb224fac61aa79b6f0&=&format=webp&quality=lossless" title="Java" style="height: 20px;></p>
-<p class="img">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" title="SpringBoot" style="height: 20px;></p>
-<p class="img">          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" title="Swift" style="height: 20px;></p>
-<p class="img">           <img src="https://media.discordapp.net/attachments/1015195380071268352/1364194166657122404/A9cSJEk3QHR0AAAAAElFTkSuQmCC.png?ex=6808c852&is=680776d2&hm=4d63c244c681dc0b34cec6ea8e4a37aae93bd8b46670b8f14edd2b617b393697&=&format=webp&quality=lossless" title="SwiftUI" style="height: 20px;></p>
-<p class="img">           <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" title="MySQL" style="height: 20px;></p><br>
-
+<div class="img" align="center">
+<a class="img"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" title="VsCode" style="height: 20px;></a>
+<a class="img">         <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" title="XCode" style="height: 20px;></a>
+<a class="img">          <img src="https://media.discordapp.net/attachments/1015195380071268352/1364193653907525642/8f473185-85b5-4af7-a7a4-d89ad18dcd06.png?ex=6808c7d8&is=68077658&hm=9e0e066352eddf2338e2b083a37073a00df8077580faf0fb224fac61aa79b6f0&=&format=webp&quality=lossless" title="Java" style="height: 20px;></a>
+<a class="img">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" title="SpringBoot" style="height: 20px;></a>
+<a class="img">          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" title="Swift" style="height: 20px;></a>
+<a class="img">           <img src="https://media.discordapp.net/attachments/1015195380071268352/1364194166657122404/A9cSJEk3QHR0AAAAAElFTkSuQmCC.png?ex=6808c852&is=680776d2&hm=4d63c244c681dc0b34cec6ea8e4a37aae93bd8b46670b8f14edd2b617b393697&=&format=webp&quality=lossless" title="SwiftUI" style="height: 20px;></a>
+<a class="img">           <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" title="MySQL" style="height: 20px;></a><br>
+</div>
+                            
+<div class="text">                         
 <br><p class="experience" align="justify">Possuo experiência e habilidades como programador em `Java & Frameworks`, `Swift`, `Flutter Basic`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Desenvolvimento Web` e `APIs`. Busco constantemente aprimorar meus conhecimentos e habilidades, destacando minha capacidade de resolver problemas, pensar de forma crítica, trabalhar em equipe e ter boa comunicação.</p>
-No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, manter código limpo (clean code), conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro expandir meus conhecimentos por meio de cursos e projetos individuais.
+<p class="experience" align="justify">No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, manter código limpo (clean code), conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro expandir meus conhecimentos por meio de cursos e projetos individuais.</p>
 <br><br>
 </div>
 
