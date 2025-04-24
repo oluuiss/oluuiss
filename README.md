@@ -50,12 +50,12 @@ I am looking for new opportunities in the job market in the fields of Software D
 <p class="experience" align="justify">No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, manter código limpo (clean code), conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro expandir meus conhecimentos por meio de cursos e projetos individuais.</p>
 <br><br>
 </div>
-
+<!--
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluuiss&layout=compact)
 </div>
-
+-->
 <div align="center" dir="auto"> 
   <a href="https://www.linkedin.com/in/oluuiss/" rel="nofollow"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
     <a href="mailto:luispyim@gmail.com"><img src="https://camo.githubusercontent.com/8a15df73eefc8d613bab8230d8859b6328119607d14846dd1f1e0e9b526126b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
@@ -66,41 +66,42 @@ I am looking for new opportunities in the job market in the fields of Software D
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oluuiss.oluuiss&left_text=PROFILE%20VIEWS"  />
 </div>
 
-<!-- </div>
-<!-- <div align="center">
-<!--
-<!-- # Skills
-<!--
-<!-- ### Languages
-<!-- <div class="languages">
-<!--     <img src="./images/languages/java.png" padding="5px" alt="java" title="Java" width="60px" height="60px">
-<!--     <img src="./images/languages/swift.png" alt="swift" title="Swift" width="70px" height="60px">
-<!--     <img src="./images/languages/angular.png" alt="angular" title="Angular" width="60px" height="60px">
-<!--     <img src="./images/languages/flutter.png" alt="flutter" title="Flutter" width="60px" height="60px">
-<!--     <img src="./images/languages/react.png" alt="react" title="React" width="60px" height="60px">
-<!--     <img src="./images/languages/c.png" alt="c" title="C" width="60px" height="60px">
-<!--     <img src="./images/languages/python.png" alt="python" title="Python" width="60px" height="60px">
-<!--     <img src="./images/languages/JavaScript.png" alt="javascript" title="JavaScript" width="60px" height="60px">
-<!--     <img src="./images/languages/php.png" alt="php" title="PHP" width="60px" height="60px">
-<!--    </div>
-<!--
-<!-- ### Frameworks & Database
-<!-- <div>
-<!--     <img src="./images/frameworks/swiftui.png" alt="swiftui" title="Swift UI" width="60px" height="60px">
-<!--     <img src="./images/frameworks/django.png" alt="django" title="Django" width="45px" height="45px">
-<!--     <img src="./images/frameworks/spring-boot.png" alt="spring-boot" title="Spring Boot" width="60px" height="60px">
-<!--     <img src="./images/database/mysql.png" alt="mysql" title="MySQL" width="60px" height="60px">
-<!--     <img src="./images/database/postgreesql.png" alt="postgresql" title="PostgreSQL" width="60px" height="60px">
-<!--     </div>
 <!-- 
-<!-- ### Tools
-<!--
-<!--  <div class="tools">
-<!--    <img src="./images/tools/vscode.png" alt="vccode" title="Visual Studio Code" width="60px" height="60px">
-<!--    <img src="./images/tools/intellij.png" alt="intellij" title="IntelliJ" width="60px" height="60px">
-<!--    <img src="./images/tools/xcode.png" alt="xcode" title="X Code" width="60px" height="60px">
-<!--     <img src="./images/tools/androidstudio.png" alt="androidstudio" title="Android Studio" width="60px" height="60px">
-<!-- </div>
-<!-- <div class="stats" align="center">
-<!-- #
-<!-- <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
+</div>
+ <div align="center">
+
+ # Skills
+
+ ### Languages
+ <div class="languages">
+     <img src="./images/languages/java.png" padding="5px" alt="java" title="Java" width="60px" height="60px">
+     <img src="./images/languages/swift.png" alt="swift" title="Swift" width="70px" height="60px">
+     <img src="./images/languages/angular.png" alt="angular" title="Angular" width="60px" height="60px">
+     <img src="./images/languages/flutter.png" alt="flutter" title="Flutter" width="60px" height="60px">
+     <img src="./images/languages/react.png" alt="react" title="React" width="60px" height="60px">
+     <img src="./images/languages/c.png" alt="c" title="C" width="60px" height="60px">
+     <img src="./images/languages/python.png" alt="python" title="Python" width="60px" height="60px">
+     <img src="./images/languages/JavaScript.png" alt="javascript" title="JavaScript" width="60px" height="60px">
+     <img src="./images/languages/php.png" alt="php" title="PHP" width="60px" height="60px">
+    </div>
+
+ ### Frameworks & Database
+ <div>
+     <img src="./images/frameworks/swiftui.png" alt="swiftui" title="Swift UI" width="60px" height="60px">
+     <img src="./images/frameworks/django.png" alt="django" title="Django" width="45px" height="45px">
+     <img src="./images/frameworks/spring-boot.png" alt="spring-boot" title="Spring Boot" width="60px" height="60px">
+     <img src="./images/database/mysql.png" alt="mysql" title="MySQL" width="60px" height="60px">
+     <img src="./images/database/postgreesql.png" alt="postgresql" title="PostgreSQL" width="60px" height="60px">
+     </div>
+ 
+ ### Tools
+
+  <div class="tools">
+    <img src="./images/tools/vscode.png" alt="vccode" title="Visual Studio Code" width="60px" height="60px">
+    <img src="./images/tools/intellij.png" alt="intellij" title="IntelliJ" width="60px" height="60px">
+    <img src="./images/tools/xcode.png" alt="xcode" title="X Code" width="60px" height="60px">
+     <img src="./images/tools/androidstudio.png" alt="androidstudio" title="Android Studio" width="60px" height="60px">
+ </div>
+<div class="stats" align="center">
+ #
+ <img id="snake" src="https://raw.githubusercontent.com/oluuiss/oluuiss/output/snake.svg" alt="Snake animation" />
