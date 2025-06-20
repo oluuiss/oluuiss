@@ -21,8 +21,8 @@
 <div class="txt" align="justify">
 <!-- Software and mobile developer with experience in various areas of systems development. I have a strong interest in innovation and am always seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently pursuing a degree  in Computer Engineering at the Centro Universitário de Votuporanga (Unifev), in Votuporanga - SP, Brazil. With a solid academic foundation and a proactive approach, I am open to new opportunities in the technology sector, aiming to contribute to the advancement of  impactful technological solutions. 
 -->
-Desenvolvedor back-end e mobile, com experiência em diversas áreas em Desenvolvimento Tenho grande interesse por inovação e busco constantemente novos desafios que permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos.
-Atualmente, estou cursando o terceiro período de Engenharia da Computação no Centro Universitário de Votuporanga (Unifev), em Votuporanga – SP, Brasil.
+Desenvolvedor back-end e mobile, com experiência em diversas áreas em Desenvolvimento. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos.
+Atualmente, estou cursando o quarto período em Engenharia da Computação na Unifev, em Votuporanga – SP, Brasil.
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I am looking for new opportunities in the job market in the fields of Software D
 </div>
                             
 <div class="text">                         
-<br><p class="experience" align="justify">Possuo experiência e habilidades como programador em `Java & Frameworks`, `Swift`, `Flutter Basic`, `Python`, `C`, `MySQL`, `PostgreSQL`, `Node.js`, `Desenvolvimento Web` e `APIs`. Busco constantemente aprimorar meus conhecimentos e habilidades, destacando minha capacidade de resolver problemas, pensar de forma crítica, trabalhar em equipe e ter boa comunicação.</p>
+<br><p class="experience" align="justify">Possuo experiência e habilidades como programador em 'Java', 'JDBC', 'Spring', 'Swift', 'C', 'MySQL', 'PostgreSQL', 'Node.js', 'Desenvolvimento Web' e 'APIs'. Busco constantemente aprimorar meus conhecimentos e habilidades, destacando minha capacidade de resolver problemas, pensar de forma crítica, trabalhar em equipe e ter boa comunicação.</p>
 <p class="experience" align="justify">No ambiente acadêmico, foco em aprimorar meus conhecimentos em diversas linguagens, manter código limpo (clean code), conceitos fundamentais de computação e desenvolvimento de software por meio de projetos e desafios. Procuro expandir meus conhecimentos por meio de cursos e projetos individuais.</p>
 <br><br>
 </div>
