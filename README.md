@@ -4,12 +4,20 @@
 
 <h1 align="center">Hello, world!</h1>
 
-<p align="justify">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180" style="margin-left: 25px;" />
-  Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
-</p>
-
-<div style="clear: both;"></div>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%; max-width: 100%;">
+    <tr>
+      <td style="border: none; background: transparent; text-align: justify; vertical-align: middle; padding-right: 25px; width: auto;">
+        <p style="margin: 0; text-align: justify;">
+          Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
+        </p>
+      </td>
+      <td style="border: none; background: transparent; text-align: center; vertical-align: middle; width: 180px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2>Experiência Profissional</h2>
 
