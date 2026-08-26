@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, world!</h1>
 
-<div>
+<div style="display: inline-block;">
   <p align="justify" style="margin-right: 10%; display: inline-block;">
       Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
   </p>
