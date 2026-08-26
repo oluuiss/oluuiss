@@ -5,7 +5,7 @@
 <h1 align="center">Hello, world!</h1>
 
 <p align="justify">
-<img align="right" src="assets/octocat.gif" alt="Octocat" width="140" height="140" hspace="12" />
+<img align="right" src="assets/octocat.gif" alt="Octocat" width="140" height="140" hspace="12" style="margin-left: 5%;" />
 Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
 </p>
 
