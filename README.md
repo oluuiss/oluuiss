@@ -4,20 +4,18 @@
 
 <h1 align="center">Hello, world!</h1>
 
-<div style="overflow: auto; margin-bottom: 20px;">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180" style="margin-left: 25px; background-color: #f0f0f000;" />
-  <p style="text-align: justify; margin: 0;">
-    Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
-  </p>
-</div>
+<p align="justify">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180" style="margin-left: 25px;" />
+  Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
+</p>
+
+<div style="clear: both;"></div>
 
 <h2>Experiência Profissional</h2>
 
-<div style="overflow: auto; margin-bottom: 20px;">
-  <p style="text-align: justify; margin: 0;">
-    Atualmente atuo como estagiário em desenvolvimento full stack na <a href="https://github.com/lwnteamanalise" target="_blank">LWN Team Análise</a>, onde participo ativamente do desenvolvimento e manutenção de aplicações web. Entre as principais atividades desempenhadas, destaca-se o desenvolvimento de APIs e integrações utilizando Node.js, estruturação e gerenciamento de bancos de dados relacionais com PostgreSQL, criação de interfaces e lógica de front-end com JavaScript, HTML e CSS, além de deploy e hospedagem de aplicações em plataformas como Vercel e Neon. Utilizo Git e GitHub para controle de versão e colaboração em equipe, participando de levantamento de requisitos e planejamento de sprints.
-  </p>
-</div>
+<p align="justify">
+  Atualmente atuo como estagiário em desenvolvimento full stack na <a href="https://github.com/lwnteamanalise" target="_blank">LWN Team Análise</a>, onde participo ativamente do desenvolvimento e manutenção de aplicações web. Entre as principais atividades desempenhadas, destaca-se o desenvolvimento de APIs e integrações utilizando Node.js, estruturação e gerenciamento de bancos de dados relacionais com PostgreSQL, criação de interfaces e lógica de front-end com JavaScript, HTML e CSS, além de deploy e hospedagem de aplicações em plataformas como Vercel e Neon. Utilizo Git e GitHub para controle de versão e colaboração em equipe, participando de levantamento de requisitos e planejamento de sprints.
+</p>
 
 <h2>Habilidades Técnicas</h2>
 
