@@ -64,8 +64,3 @@
   </a>
 </div>
 
-<br />
-
-<p align="center">
-  <img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Mona Loading" />
-</p>
