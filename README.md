@@ -4,20 +4,17 @@
 
 <h1>Hello, world!</h1>
 
-<img align="right" src="assets/stack.png" title="VS Code · Xcode · PostgreSQL · C · Node.js · Spring Boot · Git" alt="VS Code, Xcode, PostgreSQL, C, Node.js, Spring Boot, Git" width="192" height="192" hspace="16" vspace="4" />
-
 <p align="justify">
+<img align="right" src="assets/stack.png" title="VS Code · Xcode · PostgreSQL · C · Node.js · Spring Boot · Git" alt="VS Code, Xcode, PostgreSQL, C, Node.js, Spring Boot, Git" width="272" height="192" hspace="16" />
 Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
 </p>
 
-
+<br clear="all" />
 
 <h2>Experiência Profissional</h2>
 
-<img align="left" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Mona Loading" width="120" height="120" hspace="20" vspace="10" />
-
-
 <p align="justify">
+<img align="right" src="assets/spacer-gap.png" alt="" width="160" height="336" hspace="8" /><img align="left" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Mona Loading" width="120" height="120" hspace="20" /><img align="left" src="assets/spacer-col.png" alt="" width="1" height="336" />
 Atualmente atuo como estagiário em desenvolvimento full stack na <a href="https://github.com/lwnteamanalise">LWN Team Análise</a>, onde participo ativamente do desenvolvimento e manutenção de aplicações web. Entre as principais atividades desempenhadas, destaca-se o desenvolvimento de APIs e integrações utilizando Node.js, estruturação e gerenciamento de bancos de dados relacionais com PostgreSQL, criação de interfaces e lógica de front-end com JavaScript, HTML e CSS, além de deploy e hospedagem de aplicações em plataformas como Vercel e Neon. Utilizo Git e GitHub para controle de versão e colaboração em equipe, participando de levantamento de requisitos e planejamento de sprints.
 </p>
 
