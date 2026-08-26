@@ -4,12 +4,14 @@
 
 <h1 align="center">Hello, world!</h1>
 
-<p align="right">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="140" height="140" />
-</p>
-<p align="justify" style="margin-right: 10%;">
-    Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
-</p>
+<div>
+  <p align="justify" style="margin-right: 10%; display: inline-block;">
+      Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
+  </p>
+  <p align="right" style="display: inline-block;">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="140" height="140" />
+  </p>
+</div>
 
 <div style="clear: both;"></div>
 
