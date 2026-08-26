@@ -11,8 +11,8 @@ Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplica�
 
 <h2>Experiência Profissional</h2>
 
+<img align="left" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Mona Loading" width="120" height="120" style="margin-right: 25px;" />
 <p align="justify">
-  <img align="left" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Mona Loading" width="120" height="120" style="margin-right: 65px;" />
   Atualmente atuo como estagiário em desenvolvimento full stack na <a href="https://github.com/lwnteamanalise" target="_blank">LWN Team Análise</a>, onde participo ativamente do desenvolvimento e manutenção de aplicações web. Entre as principais atividades desempenhadas, destaca-se o desenvolvimento de APIs e integrações utilizando Node.js, estruturação e gerenciamento de bancos de dados relacionais com PostgreSQL, criação de interfaces e lógica de front-end com JavaScript, HTML e CSS, além de deploy e hospedagem de aplicações em plataformas como Vercel e Neon. Utilizo Git e GitHub para controle de versão e colaboração em equipe, participando de levantamento de requisitos e planejamento de sprints.
 </p>
 
