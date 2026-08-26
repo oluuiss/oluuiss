@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/pingo2.jpeg" title="Pingu" width="1200" height="200" />
-</p>
+<img src="assets/pingo2.jpeg" title="Pingu" width="1200" height="200" />
+
 
 # Hello, world!
 
