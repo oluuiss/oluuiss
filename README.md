@@ -23,9 +23,7 @@ Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplica�
   Possuo experiência sólida em Java e Spring Boot para desenvolvimento de aplicações robustas e escaláveis, Swift para desenvolvimento no ecossistema Apple, MySQL e PostgreSQL para modelagem e gerenciamento de bancos de dados relacionais, Node.js para construção de back-end eficiente e de alta performance, e C para fundamentos de programação e sistemas de baixo nível. Além disso, tenho conhecimento em Git e GitHub para versionamento de código e trabalho colaborativo. Busco constantemente aprimorar meus conhecimentos, mantendo código limpo e aplicando boas práticas de desenvolvimento. No ambiente acadêmico, foco em expandir minha base teórica e prática por meio de projetos, desafios e cursos complementares.
 </p>
 
----
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/oluuiss/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="Linkedin" alt="Linkedin" width="40" height="40" hspace="6" /></a>
-  <a href="https://instagram.com/oluuiss"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" title="Instagram" alt="Instagram" width="40" height="40" hspace="6" /></a>
+  <a href="https://www.linkedin.com/in/oluuiss/"><img src="assets/social/linkedin.gif" title="Linkedin" alt="Linkedin" width="40" height="40" hspace="6" /></a>
+  <a href="https://instagram.com/oluuiss"><img src="assets/social/instagram.gif" title="Instagram" alt="Instagram" width="40" height="40" hspace="6" /></a>
 </p>
