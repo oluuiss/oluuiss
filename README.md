@@ -2,25 +2,26 @@
   <img src="assets/header1.jpeg" title="Pingu" width="1200" height="200" />
 </p>
 
-<h1 align="center">Hello, world!</h1>
+<h1>Hello, world!</h1>
 
 <p align="justify">
 <img align="right" src="assets/octocat.gif" alt="Octocat" width="169" height="120" />
-Desenvolvedor back-end com experiência em desenvolvimento de sistemas e aplicações web. Tenho grande interesse por inovação e busco constantemente novos desafios que me permitam aplicar minhas habilidades técnicas, além de expandir meus conhecimentos. Atualmente, estou cursando o sexto período em Engenharia da Computação na <b>FAM</b>, em São Paulo - SP, Brasil.
+Back-end developer with experience in systems and web application development. I have a strong interest in innovation and am constantly seeking new challenges that allow me to apply my technical skills and expand my knowledge. I am currently in the sixth semester of Computer Engineering at <b>FAM</b>, in São Paulo - SP, Brazil.
 </p>
 
-<br clear="all" />
 
-<h2>Experiência Profissional</h2>
+
+<h2>Professional Experience</h2>
 
 <p align="justify">
-  Atualmente atuo como estagiário em desenvolvimento full stack na <a href="https://github.com/lwnteamanalise" target="_blank">LWN Team Análise</a>, onde participo ativamente do desenvolvimento e manutenção de aplicações web. Entre as principais atividades desempenhadas, destaca-se o desenvolvimento de APIs e integrações utilizando Node.js, estruturação e gerenciamento de bancos de dados relacionais com PostgreSQL, criação de interfaces e lógica de front-end com JavaScript, HTML e CSS, além de deploy e hospedagem de aplicações em plataformas como Vercel e Neon. Utilizo Git e GitHub para controle de versão e colaboração em equipe, participando de levantamento de requisitos e planejamento de sprints.
+  <b>Jul 14, 2026 - Full-Stack Intern at <a href="https://github.com/lwnteamanalise" target="_blank">LWN Team Análise</a></b><br>
+  Web and Mobile Developer. Among the main activities performed, the development of APIs and integrations using Node.js, PostgreSQL, JavaScript, React, HTML and CSS stands out. Git and GitHub for version control and team collaboration.
 </p>
 
-<h2>Habilidades Técnicas</h2>
+<h2>Technical Skills</h2>
 
 <p align="justify">
-  Possuo experiência sólida em Java e Spring Boot para desenvolvimento de aplicações robustas e escaláveis, Swift para desenvolvimento no ecossistema Apple, MySQL e PostgreSQL para modelagem e gerenciamento de bancos de dados relacionais, Node.js para construção de back-end eficiente e de alta performance, e C para fundamentos de programação e sistemas de baixo nível. Além disso, tenho conhecimento em Git e GitHub para versionamento de código e trabalho colaborativo. Busco constantemente aprimorar meus conhecimentos, mantendo código limpo e aplicando boas práticas de desenvolvimento. No ambiente acadêmico, foco em expandir minha base teórica e prática por meio de projetos, desafios e cursos complementares.
+  I have solid experience in Java and Spring Boot for developing robust and scalable applications, Swift for development in the Apple ecosystem, MySQL and PostgreSQL for modeling and managing relational databases, Node.js for building efficient and high-performance back-end solutions, and C for programming fundamentals and low-level systems. Additionally, I have knowledge in Git and GitHub for version control and collaborative work. I constantly seek to improve my skills, maintaining clean code and applying good development practices. In the academic environment, I focus on expanding my theoretical and practical foundation through projects, challenges, and complementary courses.
 </p>
 
 <p align="center">
