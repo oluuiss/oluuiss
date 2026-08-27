@@ -15,7 +15,7 @@ Back-end developer with experience in systems and web application development. I
 
 <p align="justify">
   <b>Jul 14, 2026 - Full-Stack Intern at <a href="https://github.com/lwnteamanalise" target="_blank">LWN Team Análise</a></b><br>
-  Web and Mobile Developer. Among the main activities performed, the development of APIs and integrations using Node.js, PostgreSQL, JavaScript, HTML and CSS stands out. Git and GitHub for version control and team collaboration.
+  Web and Mobile Developer. Among the main activities performed, the development of APIs and integrations using Node.js, PostgreSQL, JavaScript, React, HTML and CSS stands out. Git and GitHub for version control and team collaboration.
 </p>
 
 <h2>Technical Skills</h2>
